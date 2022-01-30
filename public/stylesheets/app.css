@@ -1,7 +1,11 @@
 header {
     background-color: rgb(121, 189, 235);
-    color: rgb(45, 87, 202);
+    color: rgb(247, 249, 255); 
     
+}
+
+#h1coloredborder {
+    text-shadow: 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black;;
 }
 
 body {
