@@ -8,6 +8,11 @@ header {
     text-shadow: 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black;;
 }
 
+#barney {
+    text-shadow: 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black;;
+    color: rgb(247, 249, 255);
+}
+
 body {
     background-color: whitesmoke;
     font-family: 'Roboto Mono', monospace;
