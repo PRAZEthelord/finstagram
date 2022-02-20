@@ -1,5 +1,7 @@
 class FinstagramPost < ActiveRecord::Base
 
+  validates :photo_url, :user, presence:true
+
     belongs_to :user
     has_many :comments
     has_many :likes

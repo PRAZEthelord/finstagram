@@ -9,7 +9,9 @@
     </head>    
     <body>
         <header>
-            <h1 id="h1coloredborder">Finstagram</h1>
+            <h1 id="h1coloredborder">
+                <a href="/">Finstagram</a>
+            </h1>
             <div id="barney" class="login-info">
                 <% if current_user %>
                     <%= current_user.username %>
@@ -20,6 +22,8 @@
                 <% end %>
             </div>
         </header>   
-        <%= yield %> 
+        <main>
+            <%= yield %> 
+        </main>
    </body>
 </html>
