@@ -1,7 +1,7 @@
 users = [
-  { username: "sharky_j", avatar_url: "https://yt3.ggpht.com/ytc/AKedOLTsY8IQxf6785cTQ-gcCnsZuLcaxjvMvbz56YxnkQ=s900-c-k-c0x00ffffff-no-rj", email: "nil", password: "nil" },
-  { username: "kirk_whalum", avatar_url: "https://static.fandomspot.com/images/02/4880/18-remoraid-fish-pokemon.jpg", email: "nil", password: "nil" },
-  { username: "marlin_daddy", avatar_url: "https://www.americanoceans.org/wp-content/uploads/2021/02/atlantic-blue-marlin-740x494.jpg", email: "nil", password: "nil" }
+  { username: "sharky_j", avatar_url: "https://yt3.ggpht.com/ytc/AKedOLTsY8IQxf6785cTQ-gcCnsZuLcaxjvMvbz56YxnkQ=s900-c-k-c0x00ffffff-no-rj", email: "abcd@whatever.com", password: "bumblebee" },
+  { username: "kirk_whalum", avatar_url: "https://static.fandomspot.com/images/02/4880/18-remoraid-fish-pokemon.jpg", email: "gangsterpenguin@gmail.com", password: "dinosauregg88" },
+  { username: "marlin_daddy", avatar_url: "https://www.americanoceans.org/wp-content/uploads/2021/02/atlantic-blue-marlin-740x494.jpg", email: "childishgambino@yahoo.com", password: "hiphop62" }
 ]
 
 finstagram_posts = [
